@@ -15,7 +15,9 @@
 </div>
 
 ![My card name](https://cardivo.vercel.app/api?name=Nijin-husni&description=Hi,%20Welcome%20To%20❤️Maalutty💙%20Profile%20❤&image=https://i.ibb.co/N6b6cv3/Maalutty.png&backgroundColor=%23ecf0f1&instagram=maalutty_v2&github=nijin-husni&twitter=&pattern=leaf&colorPattern=%23eaeaea)
-- 
+
+<div align="center">
+  <p align="center">
 
 <hr></hr>  
     
