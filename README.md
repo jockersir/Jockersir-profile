@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+nijin-husni's+Profile)](https://git.io/typing-svg)
 
   <p align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/N6b6cv3/Maalutty.png""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/YZ4D3GC/ezgif-2-67a710e8c501.gif""width="170" height="170"/>
   <p align="center">
 
 <a href="#"><img title="maalutty" src="https://img.shields.io/badge/-❤️MAALUTTY_V2💙-blue?&style=for-the-badge"></a>
